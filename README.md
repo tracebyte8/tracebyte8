@@ -43,17 +43,9 @@
 
 
 ---
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tracebyte8&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://streak-stats.demolab.com?user=tracebyte8&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracebyte8&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tracebyte8&theme=tokyo-night)](https://github.com/tracebyte8)
 ---
 
 ## 💡 Favorite Quote
