@@ -1,4 +1,4 @@
-# 👋   
+# 👋   hey !
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Linux+Systems+Programming;Cybersecurity+%7C+Blue+Team;C+%2F+C%2B%2B+Developer;Always+Learning+Something+New" />
@@ -38,7 +38,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tracebyte8&theme=tokyo-night)](https://github.com/tracebyte8)
 ---
 
-## 💡 Favorite Quote
+## 💡 
 
 >   *"Master the System , You master the Flow ."* 
 ---
