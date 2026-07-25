@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech SKILL
 
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -33,16 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 🎯 Current Interests
-
-- 🔹 Linux System Programming
-- 🔹 Cybersecurity Analysis
-- 🔹 Operating Systems
-- 🔹 C/C++ Development
-
-
----
 ## 📈 GitHub Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tracebyte8&theme=tokyo-night)](https://github.com/tracebyte8)
@@ -51,9 +41,4 @@
 ## 💡 Favorite Quote
 
 >   *"Master the System , You master the Flow ."* 
-
 ---
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
