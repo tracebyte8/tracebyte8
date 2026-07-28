@@ -38,5 +38,5 @@
 
 ## 💡 
 
->   *"Master the System , You master the Flow ."* 
+>   *"Master the System , and You master the Flow ."* 
 ---
