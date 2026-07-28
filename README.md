@@ -28,8 +28,6 @@
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-444444?style=for-the-badge&logo=gnu&logoColor=white)
 ![ptrace](https://img.shields.io/badge/ptrace-Linux-blue?style=for-the-badge)
-
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
