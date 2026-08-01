@@ -11,8 +11,7 @@
 - 🐧 Interested in **Linux Systems Programming**
 - 🔐 Interested in **Cybersecurity** & **Blue Team**
 - ⚙️ Building low-level software using **C/C++**
-- 🛡️ Learning **Operating Systems** and Linux Internals
-- 🧩 Interested in **Mathematics** & **Cryptography**
+- 🧩 Interested in **Mathematics** & **Reverse Engineering**
 - 📚 Always exploring how software works under the hood
 
 ---
