@@ -59,9 +59,10 @@ $ echo $MISSION
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg" width="42" height="42" alt="Ghidra"/>
+  <a href="https://ghidra-sre.org/">
+    <img src="https://img.shields.io/badge/Ghidra-4B275F?style=for-the-badge&logoColor=white" alt="Ghidra"/>
+  </a>
 </p>
-
 ### Databases & Tools
 
 <p align="left">
