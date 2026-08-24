@@ -1,143 +1,93 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Linux+Systems+%7C+Cybersecurity;C+%7C+C%2B%2B+%7C+Go;Reverse+Engineering+%7C+Blue+Team;Building+%26+Breaking+Things" />
-</p>
+<div align="center">
+
+```
+root@tracebyte:~# ./init.sh
+[+] loading profile...
+[+] status: OK
+```
+
+</div>
+
+<h3 align="center">tracebyte8</h3>
+<p align="center"><sub>Linux systems &nbsp;·&nbsp; cybersecurity &nbsp;·&nbsp; low-level programming</sub></p>
 
 <p align="center">
-  <a href="https://github.com/tracebyte8">
-    <img src="https://img.shields.io/github/followers/tracebyte8?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://github.com/tracebyte8">
-    <img src="https://komarev.com/ghpvc/?username=tracebyte8&style=for-the-badge&color=58A6FF" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=4DD0E1&center=true&vCenter=true&width=520&lines=Linux+Systems+%7C+Cybersecurity+%7C+Reverse+Engineering;Syscall+Monitoring+with+ptrace;Defensive+Security+%26+Blue+Team+Tooling;C+%2F+C%2B%2B+%2F+Go+%2F+Bash" alt="typing animation" />
 </p>
 
----
+<br>
 
-## 🧠 About Me
+## whoami
 
 ```bash
 $ whoami
-
 tracebyte
 
-$ cat /etc/identity
-
-role="Cybersecurity Learner"
-focus="Linux Systems & Low-Level Programming"
-languages=("C" "C++" "Go" "Bash" "Java")
-interests=("Reverse Engineering" "Blue Team" "CTFs" "APIs" "Databases")
-environment="Linux"
-
-$ cat /etc/mindset
-
-[+] Learn how systems work
-[+] Build security-focused tools
-[+] Break things to understand them
-[+] Experiment with low-level concepts
-[+] Keep learning
-
-$ echo $MISSION
-
-"Understand the system. Build the tool. Secure the flow."
+focus="Linux Systems | Cybersecurity | Low-Level Programming"
+stack="C | C++ | Go | Bash | MySQL"
+security="Ghidra | GDB | ELF | Syscalls | AES-GCM | Argon2id"
 ```
 
----
+<br>
 
-## 🛠️ Tech Stack
+## Core Stack
 
-### Languages
+| Category | Technologies |
+|---|---|
+| **Languages** | C, C++, Go, Bash |
+| **Systems** | Linux, GCC, Make, ptrace, Linux syscalls |
+| **Security** | AES-GCM, Argon2id, syscall monitoring, process monitoring, defensive tooling, sandboxing |
+| **Reverse Engineering** | Ghidra, GDB, ELF, assembly |
+| **Databases** | MySQL, SQLite |
+| **Tools** | Git, GitHub |
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="Go"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/>
-</p>
+<br>
 
-### Systems & Security
+## Security & Reverse Engineering
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
-  <a href="https://ghidra-sre.org/">
-    <img src="https://img.shields.io/badge/Ghidra-4B275F?style=for-the-badge&logoColor=white" alt="Ghidra"/>
-  </a>
-</p>
+- Tracing and inspecting process behavior via `ptrace` and the Linux syscall interface
+- Static/dynamic binary analysis with **Ghidra** and **GDB**
+- ELF internals — sections, symbols, loading, and disassembly
+- Building defensive monitors for process, file, and network activity
+- Applied cryptography: **AES-GCM** for authenticated encryption, **Argon2id** for key derivation
+- Sandboxing and isolation primitives on Linux
 
-### Databases & Tools
+<br>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="SQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-</p>
+## Current Focus
 
----
-
-## 🔥 What I'm Into
-
-```bash
-$ ls ~/interests
-
-linux/
-├── syscalls
-├── processes
-├── memory
-└── system_programming
-
-cybersecurity/
-├── blue_team
-├── security_tools
-├── monitoring
-└── ctf
-
-reverse_engineering/
-├── elf
-├── assembly
-├── ghidra
-└── debugging
-
-development/
-├── c
-├── cpp
-├── go
-├── bash
-├── apis
-└── sql
+```
+> refining a syscall-level monitoring tool (ptrace-based)
+> building Go CLIs backed by SQLite/MySQL
+> ELF analysis and reverse-engineering practice via CTFs
+> exploring Linux sandboxing/isolation mechanisms
 ```
 
----
+<br>
 
-## 🚧 Currently Building
+## Selected Projects
 
-🔐 **Security Tools** — Linux monitoring, syscall tracing and defensive tooling
+**[SysTrace](https://github.com/tracebyte8/SysTrace)**
+Linux process, file, and network activity monitor built around `ptrace` and the syscall interface — written for defensive visibility, not production deployment.
 
-🐹 **Go Projects** — CLI applications, APIs, databases and security utilities
+<br>
 
-🧩 **Reverse Engineering** — ELF analysis, debugging and binary internals
+## GitHub Stats
 
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tracebyte8&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=4DD0E1&text_color=8B949E&ring_color=4DD0E1" alt="tracebyte8 GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracebyte8&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4DD0E1&text_color=8B949E" alt="top languages" />
+</div>
 
-## 📊 GitHub
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tracebyte8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tracebyte8&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
-</p>
+## Philosophy
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tracebyte8&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## ⚡ Philosophy
-
-```bash
-$ echo "Build. Break. Understand. Repeat."
-
-Build. Break. Understand. Repeat.
+```
+$ cat /etc/motto
+"Understand the system before you trust it."
 ```
 
-> **"Master the System, and You Master the Flow."**
+<div align="center">
+<sub>tracebyte8 — Linux · Security · Low-Level Systems</sub>
+</div>
