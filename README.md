@@ -75,8 +75,20 @@ Linux process, file, and network activity monitor built around `ptrace` and the 
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tracebyte8&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=4DD0E1&text_color=8B949E&ring_color=4DD0E1" alt="tracebyte8 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracebyte8&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4DD0E1&text_color=8B949E" alt="top languages" />
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tracebyte8&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=050505&title_color=4DD0E1&icon_color=4DD0E1&text_color=8B949E&cache_seconds=86400"
+    height="170"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracebyte8&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=050505&title_color=4DD0E1&text_color=8B949E&cache_seconds=86400"
+    height="170"
+    alt="Top languages"
+  />
+</p>
+
 </div>
 
 <br>
