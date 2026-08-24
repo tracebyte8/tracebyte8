@@ -58,7 +58,7 @@ security="Ghidra | GDB | ELF | Syscalls | AES-GCM | Argon2id"
 
 ```text
 > refining a syscall-level monitoring tool
-> building Go CLIs with SQLite and MySQL
+> building Go CLIs 
 > studying ELF internals and reverse engineering
 > practicing Ghidra + GDB workflows
 > exploring Linux sandboxing and isolation
@@ -71,11 +71,6 @@ security="Ghidra | GDB | ELF | Syscalls | AES-GCM | Argon2id"
 
 **[SysTrace](https://github.com/tracebyte8/SysTrace)**
 Linux process, file, and network activity monitor built around `ptrace` and the syscall interface for defensive visibility.
-
-<br>
-
-**GoPass**
-Go-based password manager using SQLite, AES-GCM, Argon2id, password generation, and encrypted credential storage.
 
 <br>
 
@@ -96,13 +91,6 @@ Go-based password manager using SQLite, AES-GCM, Argon2id, password generation, 
   />
 </p>
 
-<p>
-  <img
-    src="https://github-stats-extended.vercel.app/api/streak?username=tracebyte8&theme=dark&hide_border=true&background=050505&ring=4DD0E1&fire=4DD0E1&currStreakLabel=4DD0E1"
-    height="170"
-    alt="GitHub contribution streak"
-  />
-</p>
 
 </div>
 
