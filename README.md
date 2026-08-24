@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```text
 root@tracebyte:~# ./init.sh
 [+] loading profile...
 [+] status: OK
@@ -12,7 +12,7 @@ root@tracebyte:~# ./init.sh
 <p align="center"><sub>Linux systems &nbsp;·&nbsp; cybersecurity &nbsp;·&nbsp; low-level programming</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=4DD0E1&center=true&vCenter=true&width=520&lines=Linux+Systems+%7C+Cybersecurity+%7C+Reverse+Engineering;Syscall+Monitoring+with+ptrace;Defensive+Security+%26+Blue+Team+Tooling;C+%2F+C%2B%2B+%2F+Go+%2F+Bash" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=4DD0E1&center=true&vCenter=true&width=560&lines=Linux+Systems+%7C+Cybersecurity+%7C+Reverse+Engineering;Syscall+Monitoring+with+ptrace;Defensive+Security+%26+Blue+Team+Tooling;C+%2F+C%2B%2B+%2F+Go+%2F+Bash" alt="Typing animation" />
 </p>
 
 <br>
@@ -24,7 +24,7 @@ $ whoami
 tracebyte
 
 focus="Linux Systems | Cybersecurity | Low-Level Programming"
-stack="C | C++ | Go | Bash | MySQL"
+stack="C | C++ | Go | Bash | MySQL | SQLite"
 security="Ghidra | GDB | ELF | Syscalls | AES-GCM | Argon2id"
 ```
 
@@ -32,35 +32,37 @@ security="Ghidra | GDB | ELF | Syscalls | AES-GCM | Argon2id"
 
 ## Core Stack
 
-| Category | Technologies |
-|---|---|
-| **Languages** | C, C++, Go, Bash |
-| **Systems** | Linux, GCC, Make, ptrace, Linux syscalls |
-| **Security** | AES-GCM, Argon2id, syscall monitoring, process monitoring, defensive tooling, sandboxing |
-| **Reverse Engineering** | Ghidra, GDB, ELF, assembly |
-| **Databases** | MySQL, SQLite |
-| **Tools** | Git, GitHub |
+| Category                | Technologies                                                                             |
+| ----------------------- | ---------------------------------------------------------------------------------------- |
+| **Languages**           | C, C++, Go, Bash                                                                         |
+| **Systems**             | Linux, GCC, Make, ptrace, Linux syscalls                                                 |
+| **Security**            | AES-GCM, Argon2id, syscall monitoring, process monitoring, defensive tooling, sandboxing |
+| **Reverse Engineering** | Ghidra, GDB, ELF, assembly                                                               |
+| **Databases**           | MySQL, SQLite                                                                            |
+| **Tools**               | Git, GitHub                                                                              |
 
 <br>
 
 ## Security & Reverse Engineering
 
-- Tracing and inspecting process behavior via `ptrace` and the Linux syscall interface
-- Static/dynamic binary analysis with **Ghidra** and **GDB**
-- ELF internals — sections, symbols, loading, and disassembly
-- Building defensive monitors for process, file, and network activity
-- Applied cryptography: **AES-GCM** for authenticated encryption, **Argon2id** for key derivation
-- Sandboxing and isolation primitives on Linux
+* Tracing process behavior with `ptrace` and the Linux syscall interface
+* Static and dynamic binary analysis with **Ghidra** and **GDB**
+* ELF internals, sections, symbols, loading, and disassembly
+* Defensive monitoring of process, file, memory, and network activity
+* Applied cryptography with **AES-GCM** and **Argon2id**
+* Linux sandboxing and isolation mechanisms
 
 <br>
 
 ## Current Focus
 
-```
-> refining a syscall-level monitoring tool (ptrace-based)
-> building Go CLIs backed by SQLite/MySQL
-> ELF analysis and reverse-engineering practice via CTFs
-> exploring Linux sandboxing/isolation mechanisms
+```text
+> refining a syscall-level monitoring tool
+> building Go CLIs with SQLite and MySQL
+> studying ELF internals and reverse engineering
+> practicing Ghidra + GDB workflows
+> exploring Linux sandboxing and isolation
+> building security-focused tooling
 ```
 
 <br>
@@ -68,7 +70,12 @@ security="Ghidra | GDB | ELF | Syscalls | AES-GCM | Argon2id"
 ## Selected Projects
 
 **[SysTrace](https://github.com/tracebyte8/SysTrace)**
-Linux process, file, and network activity monitor built around `ptrace` and the syscall interface — written for defensive visibility, not production deployment.
+Linux process, file, and network activity monitor built around `ptrace` and the syscall interface for defensive visibility.
+
+<br>
+
+**GoPass**
+Go-based password manager using SQLite, AES-GCM, Argon2id, password generation, and encrypted credential storage.
 
 <br>
 
@@ -78,14 +85,22 @@ Linux process, file, and network activity monitor built around `ptrace` and the 
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tracebyte8&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=050505&title_color=4DD0E1&icon_color=4DD0E1&text_color=8B949E&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api?username=tracebyte8&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=4DD0E1&icon_color=4DD0E1&text_color=8B949E"
     height="170"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracebyte8&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=050505&title_color=4DD0E1&text_color=8B949E&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tracebyte8&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=050505&title_color=4DD0E1&text_color=8B949E"
     height="170"
     alt="Top languages"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-stats-extended.vercel.app/api/streak?username=tracebyte8&theme=dark&hide_border=true&background=050505&ring=4DD0E1&fire=4DD0E1&currStreakLabel=4DD0E1"
+    height="170"
+    alt="GitHub contribution streak"
   />
 </p>
 
@@ -95,11 +110,11 @@ Linux process, file, and network activity monitor built around `ptrace` and the 
 
 ## Philosophy
 
-```
+```bash
 $ cat /etc/motto
 "Understand the system before you trust it."
 ```
 
 <div align="center">
-<sub>tracebyte8 — Linux · Security · Low-Level Systems</sub>
+<sub>tracebyte8 — Linux · Security · Reverse Engineering · Low-Level Systems</sub>
 </div>
