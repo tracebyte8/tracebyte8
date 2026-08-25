@@ -28,44 +28,8 @@ stack="C | C++ | Go | Bash | MySQL | SQLite"
 security="Ghidra | GDB | ELF | Syscalls | AES-GCM | Argon2id"
 ```
 
-<br>
 
-## Core Stack
 
-| Category                | Technologies                                                                             |
-| ----------------------- | ---------------------------------------------------------------------------------------- |
-| **Languages**           | C, C++, Go, Bash                                                                         |
-| **Systems**             | Linux, GCC, Make, ptrace, Linux syscalls                                                 |
-| **Security**            | AES-GCM, Argon2id, syscall monitoring, process monitoring, defensive tooling, sandboxing |
-| **Reverse Engineering** | Ghidra, GDB, ELF, assembly                                                               |
-| **Databases**           | MySQL, SQLite                                                                            |
-| **Tools**               | Git, GitHub                                                                              |
-
-<br>
-
-## Security & Reverse Engineering
-
-* Tracing process behavior with `ptrace` and the Linux syscall interface
-* Static and dynamic binary analysis with **Ghidra** and **GDB**
-* ELF internals, sections, symbols, loading, and disassembly
-* Defensive monitoring of process, file, memory, and network activity
-* Applied cryptography with **AES-GCM** and **Argon2id**
-* Linux sandboxing and isolation mechanisms
-
-<br>
-
-## Current Focus
-
-```text
-> refining a syscall-level monitoring tool
-> building Go CLIs 
-> studying ELF internals and reverse engineering
-> practicing Ghidra + GDB workflows
-> exploring Linux sandboxing and isolation
-> building security-focused tooling
-```
-
-<br>
 
 ## Selected Projects
 
@@ -96,12 +60,7 @@ Linux process, file, and network activity monitor built around `ptrace` and the 
 
 <br>
 
-## Philosophy
 
-```bash
-$ cat /etc/motto
-"Understand the system before you trust it."
-```
 
 <div align="center">
 <sub>tracebyte8 — Linux · Security · Reverse Engineering · Low-Level Systems</sub>
