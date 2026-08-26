@@ -1,21 +1,4 @@
-<div align="center">
 
-```text
-root@tracebyte:~# ./init.sh
-[+] loading profile...
-[+] status: OK
-```
-
-</div>
-
-<h3 align="center">tracebyte8</h3>
-<p align="center"><sub>Linux systems &nbsp;·&nbsp; cybersecurity &nbsp;·&nbsp; low-level programming</sub></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=4DD0E1&center=true&vCenter=true&width=560&lines=Linux+Systems+%7C+Cybersecurity+%7C+Reverse+Engineering;Syscall+Monitoring+with+ptrace;Defensive+Security+%26+Blue+Team+Tooling;C+%2F+C%2B%2B+%2F+Go+%2F+Bash" alt="Typing animation" />
-</p>
-
-<br>
 
 ## whoami
 
