@@ -8,7 +8,7 @@ tracebyte
 
 focus="Linux Systems | Cybersecurity | Low-Level Programming"
 stack="C | C++ | Go | Bash | MySQL | SQLite"
-security="Ghidra | GDB | ELF | Syscalls | AES-GCM | Argon2id"
+security="Ghidra | GDB | ELF | AES-GCM | Argon2id"
 ```
 
 
