@@ -1,50 +1,40 @@
+# 0x747261636572
 
+> **Master the SYSTEM, You Master the FLOW.**
 
-## whoami
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,c,cpp,go,bash,python,gdb" />
+</p>
 
-```bash
+<p align="center">
+  <img src="https://img.shields.io/badge/CTF-000000?style=for-the-badge&logo=hackthebox&logoColor=green" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-111111?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+```text
 $ whoami
 tracebyte
 
-focus="Linux Systems | Cybersecurity | Low-Level Programming"
-stack="C | C++ | Go | Bash | MySQL | SQLite"
-security="Ghidra | GDB | ELF | AES-GCM | Argon2id"
+$ cat /proc/focus
+→ C / C++ / Go / Python
+→ Linux & Systems
+→ Reverse Engineering
+→ CTFs & Binary Analysis
+→ Low-Level Programming
 ```
 
+### 🧩 Projects
 
+* 🔬 **SysTrace** — Linux syscall & process monitoring
+* 🐚 **MyShell** — Unix shell written in C
+* 🔐 **Password Manager** — Argon2id + AES-GCM
+* 🌐 **Go TCP Chat Server**
 
+```text
+[+] tracing...
+[+] reversing...
+[+] learning...
+```
 
-## Selected Projects
-
-**[SysTrace](https://github.com/tracebyte8/SysTrace)**
-Linux process, file, and network activity monitor built around `ptrace` and the syscall interface for defensive visibility.
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<p>
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=tracebyte8&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=4DD0E1&icon_color=4DD0E1&text_color=8B949E"
-    height="170"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tracebyte8&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=050505&title_color=4DD0E1&text_color=8B949E"
-    height="170"
-    alt="Top languages"
-  />
-</p>
-
-
-</div>
-
-<br>
-
-
-
-<div align="center">
-<sub>tracebyte8 — Linux · Security · Reverse Engineering · Low-Level Systems</sub>
-</div>
+> `still tracing the flow.`
