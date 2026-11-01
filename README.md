@@ -1,6 +1,5 @@
 # 0x747261636572
 
-> **Master the SYSTEM, You Master the FLOW.**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,c,cpp,go,bash,python,gdb" />
@@ -36,5 +35,3 @@ $ cat /proc/focus
 [+] reversing...
 [+] learning...
 ```
-
-> `still tracing the flow.`
